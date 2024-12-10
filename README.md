@@ -78,3 +78,23 @@ Replace the empty strings with your actual API keys and MongoDB URL.
    ```bash
    npm init
    npm run dev
+## Login Instructions
+1. On the login page, use the following credentials:
+   ```bash
+   Username: user
+   Password: password
+You can choose to hide or see your password by click on the eye/monkey button:
+ ![Screenshot 2024-12-10 093526](https://github.com/user-attachments/assets/f10b32b6-d2d4-48b9-ad79-dc0cfede2c72)
+![Screenshot 2024-12-10 093516](https://github.com/user-attachments/assets/58a1c06e-7a9d-452a-838a-38e556b1c85a)
+
+2. Click Login to access the application.
+If you put in right credentials, you will see this default page:
+![Screenshot 2024-12-10 092651](https://github.com/user-attachments/assets/0e3089d7-5b34-4f83-8329-6b9505808d9a)
+
+3. Start input your stock symbol for technical analysis, sentiment analysis, and overall analysis.
+![Screenshot 2024-12-10 092517](https://github.com/user-attachments/assets/a7aae0a8-9366-45de-b4f9-352bf7d4491f)
+
+4. You can also click on Prediction on top right for a simple regression line prediction. It is a good tool to see the trend.
+![Screenshot 2024-12-10 092629](https://github.com/user-attachments/assets/53eaaba7-9fee-4b58-81cc-bcfe56c0f8c2)
+
+# !!! Please note! This is just a information providing tool! Please do not use any information or image showing here from this project as advisoring for your investment!
