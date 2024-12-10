@@ -1,20 +1,4 @@
-Stock Market Insight Project
-To use, first download this repo to your local machine
-Then add a file .env under server folder
-in .env, add 
-PERPLEXITY_API_KEY = ''
-MONGO_URL=''
-STOCK_PRICE_KEY=''
-NEWS_KEY=''
-After saving this file, run cd server 
-Then run npm run dev
-Then open another terminal
-Run cd client
-Then run npm run dev
-ctrl + click the provided link in your terminal
-in the login page
-type user as username, password as password
-click login
+
 
 # Stock Market Insight Project
 
